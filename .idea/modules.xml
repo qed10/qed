@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-httpclient/it-httpclient.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-httpclient/it-httpclient.iml" group="openstack4j-parent and modules/openstack4j-core-integration-test and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-jersey2/it-jersey2.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-jersey2/it-jersey2.iml" group="openstack4j-parent and modules/openstack4j-core-integration-test and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-okhttp/it-okhttp.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-okhttp/it-okhttp.iml" group="openstack4j-parent and modules/openstack4j-core-integration-test and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-resteasy/it-resteasy.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-integration-test/it-resteasy/it-resteasy.iml" group="openstack4j-parent and modules/openstack4j-core-integration-test and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/distribution/openstack4j.iml" filepath="$PROJECT_DIR$/../openstack4j-master/distribution/openstack4j.iml" group="openstack4j-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/openstack4j-connectors.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/openstack4j-connectors.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core/openstack4j-core.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core/openstack4j-core.iml" group="openstack4j-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-integration-test/openstack4j-core-integration-test.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-integration-test/openstack4j-core-integration-test.iml" group="openstack4j-parent and modules/openstack4j-core-integration-test and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/core-test/openstack4j-core-test.iml" filepath="$PROJECT_DIR$/../openstack4j-master/core-test/openstack4j-core-test.iml" group="openstack4j-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/http-connector/openstack4j-http-connector.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/http-connector/openstack4j-http-connector.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/httpclient/openstack4j-httpclient.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/httpclient/openstack4j-httpclient.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/jersey2/openstack4j-jersey2.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/jersey2/openstack4j-jersey2.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/okhttp/openstack4j-okhttp.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/okhttp/openstack4j-okhttp.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/openstack4j-parent.iml" filepath="$PROJECT_DIR$/../openstack4j-master/openstack4j-parent.iml" group="openstack4j-parent and modules" />
+      <module fileurl="file://$PROJECT_DIR$/../openstack4j-master/connectors/resteasy/openstack4j-resteasy.iml" filepath="$PROJECT_DIR$/../openstack4j-master/connectors/resteasy/openstack4j-resteasy.iml" group="openstack4j-parent and modules/openstack4j-connectors and modules" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+    </modules>
+  </component>
+</project>
